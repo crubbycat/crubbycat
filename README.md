@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crubbycat
+- 👋 Hi, I’m Sung / @crubbycat
 - 👀 I’m interested in AI and creative coding!
 - 🌱 I’m currently in second year Computer Sceince programme 😊
 - 📫 How to reach me ...
